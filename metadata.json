@@ -1,0 +1,6 @@
+{
+  "name": "Formal Swiping ATS",
+  "description": "A professional candidate screening workspace featuring horizontal card-swiping triage, AI-driven contact details extraction, automated email drafting, and structured CV pipeline exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
